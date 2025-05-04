@@ -1,0 +1,11 @@
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\bin\Debug\DAL.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\bin\Debug\DAL.pdb
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\bin\Debug\ConnectionLib.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\bin\Debug\DTO.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\bin\Debug\ConnectionLib.pdb
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\bin\Debug\DTO.pdb
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\obj\Debug\DAL.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DAL\obj\Debug\DAL.pdb

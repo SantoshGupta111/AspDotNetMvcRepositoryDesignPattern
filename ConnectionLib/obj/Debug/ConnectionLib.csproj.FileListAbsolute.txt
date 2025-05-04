@@ -1,0 +1,6 @@
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\ConnectionLib\bin\Debug\ConnectionLib.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\ConnectionLib\bin\Debug\ConnectionLib.pdb
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\ConnectionLib\obj\Debug\ConnectionLib.csproj.AssemblyReference.cache
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\ConnectionLib\obj\Debug\ConnectionLib.csproj.CoreCompileInputs.cache
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\ConnectionLib\obj\Debug\ConnectionLib.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\ConnectionLib\obj\Debug\ConnectionLib.pdb

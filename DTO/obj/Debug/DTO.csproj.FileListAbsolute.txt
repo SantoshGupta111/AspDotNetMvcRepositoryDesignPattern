@@ -1,0 +1,6 @@
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DTO\bin\Debug\DTO.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DTO\bin\Debug\DTO.pdb
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DTO\obj\Debug\DTO.dll
+F:\DotNetMVCProjectSolutions\DotNetMVCProjectSolution\DTO\obj\Debug\DTO.pdb
